@@ -1,0 +1,9 @@
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 20.Listas circulares\ED - Programa 20.Listas circulares\bin\Debug\ED - Programa 20.Listas circulares.exe.config
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 20.Listas circulares\ED - Programa 20.Listas circulares\bin\Debug\ED - Programa 20.Listas circulares.exe
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 20.Listas circulares\ED - Programa 20.Listas circulares\bin\Debug\ED - Programa 20.Listas circulares.pdb
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 20.Listas circulares\ED - Programa 20.Listas circulares\obj\Debug\ED - Programa 20.Listas circulares.csprojResolveAssemblyReference.cache
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 20.Listas circulares\ED - Programa 20.Listas circulares\obj\Debug\ED___Programa_20.Listas_circulares.Form1.resources
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 20.Listas circulares\ED - Programa 20.Listas circulares\obj\Debug\ED___Programa_20.Listas_circulares.Properties.Resources.resources
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 20.Listas circulares\ED - Programa 20.Listas circulares\obj\Debug\ED - Programa 20.Listas circulares.csproj.GenerateResource.Cache
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 20.Listas circulares\ED - Programa 20.Listas circulares\obj\Debug\ED - Programa 20.Listas circulares.exe
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 20.Listas circulares\ED - Programa 20.Listas circulares\obj\Debug\ED - Programa 20.Listas circulares.pdb
